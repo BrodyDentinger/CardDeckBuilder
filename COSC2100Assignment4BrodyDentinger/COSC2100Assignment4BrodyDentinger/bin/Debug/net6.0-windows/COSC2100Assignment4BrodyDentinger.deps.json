@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "COSC2100Assignment4BrodyDentinger/1.0.0": {
+        "runtime": {
+          "COSC2100Assignment4BrodyDentinger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COSC2100Assignment4BrodyDentinger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

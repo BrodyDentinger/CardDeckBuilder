@@ -1,0 +1,16 @@
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\bin\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.exe
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\bin\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.deps.json
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\bin\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.runtimeconfig.json
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\bin\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.dll
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\bin\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.pdb
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.Form1.resources
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.csproj.GenerateResource.cache
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.AssemblyInfoInputs.cache
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.AssemblyInfo.cs
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.csproj.CoreCompileInputs.cache
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.dll
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\refint\COSC2100Assignment4BrodyDentinger.dll
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.pdb
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\COSC2100Assignment4BrodyDentinger.genruntimeconfig.cache
+C:\Users\brody\source\repos\COSC2100Assignment4BrodyDentinger\COSC2100Assignment4BrodyDentinger\obj\Debug\net6.0-windows\ref\COSC2100Assignment4BrodyDentinger.dll
